@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"RFI",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('RFI')/Hierarchies('RFI')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"RFI.hierarchies/RFI.json"
+	]
+}
